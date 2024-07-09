@@ -19,7 +19,11 @@ Use Streamlit to allow users to interact with and filter the data through the ap
 
 Business Use Cases:
 The solution can be applied to various business scenarios including:
+
 Travel Aggregators: Providing real-time bus schedules and seat availability for customers.
+
 Market Analysis: Analyzing travel patterns and preferences for market research.
+
 Customer Service: Enhancing user experience by offering customized travel options based on data insights.
+
 Competitor Analysis: Comparing pricing and service levels with competitors.
